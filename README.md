@@ -19,4 +19,4 @@ Program ini merupakan kalkulator sederhana berbasis web dengan html, css, dan ph
 2. Clone atau download program ini
 3. Apabila hasil downloadan berbentuk zip, maka ekstrak 
 4. Kemudian pindahkan ke dalam direktori C://xampp/htdocs
-5. Buka browser kemudian ketikan http://localhost/Tugas5_RagilMurdiantoroA.php
+5. Buka browser kemudian ketikan http://localhost/Tugas6_RagilMurdiantoroA.php
