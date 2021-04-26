@@ -10,7 +10,7 @@ Program ini merupakan kalkulator sederhana berbasis web dengan html, css, dan ph
 ## Fitur
 
 - Input 2 bilangan
-- Menampilkan hasil penjumlahan, perkurangan, perkalian, dan pembagian
+- Menampilkan hasil penjumlahan, pengurangan, perkalian, dan pembagian
 
 
 ## Instalasi
